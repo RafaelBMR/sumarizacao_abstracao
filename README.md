@@ -1,2 +1,2 @@
 # sumarizacao_abstracao
-Jupyter Notebooks para Pré-Processamento dos Datasets e Treinamento dos Modelos Neurais
+Jupyter Notebooks para Treinamento dos Modelos Neurais
